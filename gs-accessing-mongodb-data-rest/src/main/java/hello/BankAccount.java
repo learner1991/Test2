@@ -11,7 +11,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 public class BankAccount
 {
 	private String ba_id;
-	
+	private String bank_address;
 	 
 	private String account_name;
 	private String routing_number;
